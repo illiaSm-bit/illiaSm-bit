@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://gifer.com/ru/gifs/pixel" alt="GIF" />
+  <img src="https://i.gifer.com/Mf08.gif" alt="GIF" />
 </p>
 
 # Привіт, я Ілля 👋
